@@ -2,6 +2,8 @@ import moment from 'moment'
 
 export default {
 
+  name: 'vue-timeago',
+
   template: `<div class="time-ago">{{elapsed}}</div>`,
 
   props: {
