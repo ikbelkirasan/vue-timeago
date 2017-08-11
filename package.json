@@ -1,0 +1,19 @@
+{
+  "name": "vue-timeago",
+  "version": "1.0.0",
+  "description": "Vue Component for showing a humanized elapsed time",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Kira San <ikbel.kira@live.fr>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ikbelkirasan/vue-timeago.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ikbelkirasan/vue-timeago/issues"
+  }
+}
